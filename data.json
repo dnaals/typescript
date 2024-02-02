@@ -1,0 +1,19 @@
+{
+    "test": [
+        {
+            "id": 1706061692915,
+            "name": "asd",
+            "state": false
+        },
+        {
+            "id": 1706061698738,
+            "name": "zz",
+            "state": false
+        },
+        {
+            "id": 1706061965775,
+            "name": "123",
+            "state": false
+        }
+    ]
+}
